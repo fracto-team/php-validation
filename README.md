@@ -2,7 +2,7 @@
 
 ## How to use?
 
-```php=
+```php
 <?php
 
 use Fracto\Validation\Exceptions\ValidationException;
