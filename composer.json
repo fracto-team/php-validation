@@ -3,7 +3,7 @@
   "description": "A Simple Validation Library",
   "type": "library",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "Orkuncakilkaya",
@@ -17,5 +17,6 @@
     "psr-4": {
       "Fracto\\Validation\\": "src"
     }
-  }
+  },
+  "minimum-stability": "dev"
 }
